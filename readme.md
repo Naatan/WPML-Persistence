@@ -4,3 +4,4 @@ Note that this plugin is still very experimental. It works perfectly on my own e
 
 * Use the existing URL structure to validate if the visitor is trying to change the language.
 * Add options to widget
+* Hook into the flow at an earlier time to prevent executing costly queries when unnecessary.
